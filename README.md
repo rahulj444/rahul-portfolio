@@ -1,2 +1,11 @@
-# rahul-portfolio
-my portfolio
+# MyPortfolio
+
+
+# Technologies Used
+* HTML
+* CSS
+* JavaScript
+
+# Tools
+* VS Code
+* Github
